@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="120">
+
+    <group
+            android:translateY="-177">
+        <path
+            android:fillColor="#000000"
+            android:fillAlpha="0"
+            android:strokeColor="#000000"
+            android:strokeWidth="10"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M 13 182 L 87 182 Q 95 182 95 190 L 95 284 Q 95 292 87 292 L 13 292 Q 5 292 5 284 L 5 190 Q 5 182 13 182 Z" />
+        <path
+            android:fillColor="#000000"
+            android:strokeWidth="10"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M 30 202 C 35.5228474983 202 40 206.477152502 40 212 C 40 217.522847498 35.5228474983 222 30 222 C 24.4771525017 222 20 217.522847498 20 212 C 20 206.477152502 24.4771525017 202 30 202 Z" />
+        <path
+            android:fillColor="#000000"
+            android:strokeWidth="10"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M 30 252 C 35.5228474983 252 40 256.477152502 40 262 C 40 267.522847498 35.5228474983 272 30 272 C 24.4771525017 272 20 267.522847498 20 262 C 20 256.477152502 24.4771525017 252 30 252 Z" />
+        <path
+            android:fillColor="#000000"
+            android:strokeWidth="10"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M 70 202 C 75.5228474983 202 80 206.477152502 80 212 C 80 217.522847498 75.5228474983 222 70 222 C 64.4771525017 222 60 217.522847498 60 212 C 60 206.477152502 64.4771525017 202 70 202 Z" />
+        <path
+            android:fillColor="#000000"
+            android:strokeWidth="10"
+            android:strokeLineJoin="round"
+            android:strokeLineCap="square"
+            android:pathData="M 70 252 C 75.5228474983 252 80 256.477152502 80 262 C 80 267.522847498 75.5228474983 272 70 272 C 64.4771525017 272 60 267.522847498 60 262 C 60 256.477152502 64.4771525017 252 70 252 Z" />
+    </group>
+</vector>

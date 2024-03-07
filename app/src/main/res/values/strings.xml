@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Dice Chart</string>
+    <string name="title_dice">Dice</string>
+    <string name="title_stats">Statistics</string>
+    <string name="title_settings">Settings</string>
+    <string name="pull_to_dice">Tip: Pull down to roll the dice!</string>
+    <string name="roll_delay">500</string>
+    <string name="default_number_sides">6</string>
+    <string name="default_number_dices">2</string>
+    <string name="initial_number">5</string>
+    <string name="bar_label">Actual Count</string>
+    <string name="line_label">Expected Count</string>
+    <string name="default_keep_screen_on">true</string>
+    <string name="reset_statistics_text">Reset Statistics</string>
+    <string name="skip_text">Skip</string>
+    <string name="game_settings_text">Game Settings:</string>
+    <string name="number_of_players_text">Number of Players:</string>
+    <string name="default_number_of_players">4</string>
+    <string name="confirm_text">Confirm</string>
+    <string name="dice_settings_text">Dice Settings:</string>
+    <string name="number_of_dices_text">Number of Dice:</string>
+    <string name="number_of_sides_per_dice_text">Number of Sides per Dice:</string>
+    <string name="app_settings_text">App Settings:</string>
+    <string name="delay_text">Delay till the Dice are shown:</string>
+    <string name="keep_display_on_text">Keep Display on when in Dice Section:</string>
+    <string name="players_text">Players:</string>
+    <string name="order_hint_text">Hint: Enter the players\' names in the desired order. Player 1 goes first. Player 2 goes second and so on.</string>
+    <string name="start_game_text">Start Game</string>
+    <string name="overall_text">Overall:</string>
+    <string name="game_mode_text">Game Mode</string>
+    <string name="leave_game_mode_text">Leave Game Mode</string>
+    <string name="exit_text">Exit</string>
+    <string name="player_text">Player</string>
+    <string name="stats_subtitle">Distribution Sum of Spots</string>
+    <string name="dice_subtitle">Roll the dice</string>
+    <string name="settings_subtitle">Configure the App</string>
+    <string name="turn_text_1">"It\'s "</string>
+    <string name="turn_text_2">\'s turn</string>
+    <string name="about_item_text">About</string>
+    <string name="about_title">About Dice Chart</string>
+    <string name="opensource_title">Open Source Licenses</string>
+    <string name="open_source_licences">
+        ##MPAndroidChart##\n
+
+        \nCopyright 2020 Philipp Jahoda
+        \nLicensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n \n
+        http://www.apache.org/licenses/LICENSE-2.0 \n
+        \nUnless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.\n\n\n
+
+        ##AndroidX##\n
+
+        \nhttps://www.apache.org/licenses/LICENSE-2.0.txt\n\n\n
+
+        ##com.google.android.material:material##\n
+
+        \nhttps://www.apache.org/licenses/LICENSE-2.0.txt\n\n\n</string>
+    <string name="version">Version</string>
+    <string name="chart_credit_text">The statistic charts are implemented with the awesome MPAndroidChart library: \n https://github.com/PhilJay/MPAndroidChart</string>
+    <string name="developer_credit_text">developed by Simeon Bischl as final project of cs50x, 2020</string>
+    <string name="mail_text">If you have feedback, suggestions or find a bug: dicechart@gmx.net</string>
+
+</resources>

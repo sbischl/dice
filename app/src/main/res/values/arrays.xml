@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_of_dices">
+        <item>1 Dice</item>
+        <item>2 Dices</item>
+        <item>3 Dices</item>
+        <item>4 Dices</item>
+        <item>5 Dices</item>
+        <item>6 Dices</item>
+    </string-array>
+    <string-array name="number_of_sides">
+        <item>1 Side</item>
+        <item>2 Sides</item>
+        <item>3 Sides</item>
+        <item>4 Sides</item>
+        <item>5 Sides</item>
+        <item>6 Sides</item>
+    </string-array>
+</resources>

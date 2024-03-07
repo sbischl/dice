@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_of_dices">
+        <item>1 Würfel</item>
+        <item>2 Würfel</item>
+        <item>3 Würfel</item>
+        <item>4 Würfel</item>
+        <item>5 Würfel</item>
+        <item>6 Würfel</item>
+    </string-array>
+    <string-array name="number_of_sides">
+        <item>1 Seite</item>
+        <item>2 Seiten</item>
+        <item>3 Seiten</item>
+        <item>4 Seiten</item>
+        <item>5 Seiten</item>
+        <item>6 Seiten</item>
+    </string-array>
+</resources>

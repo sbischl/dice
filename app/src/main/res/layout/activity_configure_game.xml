@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/gameconfig_scrollview"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:id="@+id/gameconfig_linlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="@string/game_settings_text"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:paddingTop="12dp"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:text="@string/number_of_players_text"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/edit_number_players"
+            android:gravity="center_horizontal"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:hint="@string/default_number_of_players"/>
+
+        <Button
+            android:id="@+id/button_confirm_nr_players"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confirm_text"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+
+</ScrollView>

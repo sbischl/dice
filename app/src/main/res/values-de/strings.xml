@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Dice Chart</string>
+    <string name="title_dice">Würfel</string>
+    <string name="title_stats">Statistiken</string>
+    <string name="title_settings">Einstellungen</string>
+    <string name="pull_to_dice">Tipp: Herunterziehen um zu Würfeln!</string>
+    <string name="roll_delay">500</string>
+    <string name="default_number_sides">6</string>
+    <string name="default_number_dices">2</string>
+    <string name="initial_number">5</string>
+    <string name="bar_label">Tatsächliche Anzahl</string>
+    <string name="line_label">Erwartete Anzahl</string>
+    <string name="default_keep_screen_on">true</string>
+    <string name="reset_statistics_text">Statistiken zurücksetzen</string>
+    <string name="skip_text">Überspringen</string>
+    <string name="game_settings_text">Spieleinstellungen:</string>
+    <string name="number_of_players_text">Anzahl der Spieler:</string>
+    <string name="default_number_of_players">4</string>
+    <string name="confirm_text">Bestätigen</string>
+    <string name="dice_settings_text">Würfeleinstellungen:</string>
+    <string name="number_of_dices_text">Würfelanzahl:</string>
+    <string name="number_of_sides_per_dice_text">Seiten pro Würfel:</string>
+    <string name="app_settings_text">App-Einstellungen:</string>
+    <string name="delay_text">Verzögerung bis die Würfel gezeigt werden:</string>
+    <string name="keep_display_on_text">Display nicht ausschalten in Würfelsektion:</string>
+    <string name="players_text">Spieler:</string>
+    <string name="order_hint_text">Tipp: Gib die Spielernamen in der Reihenfolge ein in der sie dran sind. Spieler 1 ist als erstes dran. Spieler 2 als zweites usw.</string>
+    <string name="start_game_text">Starte das Spiel</string>
+    <string name="overall_text">Insgesamt:</string>
+    <string name="game_mode_text">Spielmodus</string>
+    <string name="leave_game_mode_text">Spielmodus beenden</string>
+    <string name="exit_text">App schließen</string>
+    <string name="player_text">Spieler</string>
+    <string name="stats_subtitle">Verteilung der Augensumme</string>
+    <string name="dice_subtitle">Wirf die Würfel</string>
+    <string name="settings_subtitle">Konfiguriere die App</string>
+    <string name="turn_text_1"></string>
+    <string name="turn_text_2">" ist dran"</string>
+    <string name="about_item_text">Über Dice Chart</string>
+    <string name="about_title">Über Dice Chart</string>
+    <string name="opensource_title">Open Source Lizenzen</string>
+    <string name="open_source_licences">
+        ##MPAndroidChart##\n
+
+        \nCopyright 2020 Philipp Jahoda
+        \nLicensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at\n \n
+        http://www.apache.org/licenses/LICENSE-2.0 \n
+        \nUnless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.\n\n\n
+
+        ##androidx##\n
+
+        \nhttps://www.apache.org/licenses/LICENSE-2.0.txt\n\n\n
+
+        ##com.google.android.material:material##\n
+
+        \nhttps://www.apache.org/licenses/LICENSE-2.0.txt\n\n\n</string>
+    <string name="version">Version</string>
+    <string name="chart_credit_text">Die Grafiken in der Statistiksektion sind mit der großartigen MPAndroidChart library implementiert: \n https://github.com/PhilJay/MPAndroidChart</string>
+    <string name="developer_credit_text">entwickelt von Simeon Bischl als Abschlussprojekt von cs50x, 2020</string>
+    <string name="mail_text">Bei Feedback, Vorschlägen oder Bugs: dicechart@gmx.net</string>
+
+</resources>
